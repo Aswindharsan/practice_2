@@ -1,0 +1,90 @@
+body {
+  width: 1440px;
+  background-color: hsl(185, 75%, 39%);
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+div {
+  background-color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 410px;
+  margin: auto;
+  width: 400px;
+  position: relative;
+  bottom: 600px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  text-align: center;
+  position: relative;
+  bottom: 60px;
+}
+
+table {
+  position: relative;
+  bottom: 60px;
+  border-spacing: 10px;
+}
+
+p {
+  text-align: center;
+  position: relative;
+  bottom: 70px;
+  color: hsl(0, 0%, 59%);
+}
+
+hr {
+  margin: 1 0 0 0;
+  color: hsl(0, 0%, 59%);
+  position: relative;
+  bottom: 65px;
+}
+
+span {
+  color: hsl(0, 0%, 59%);
+}
+
+td {
+  color: hsl(0, 0%, 59%);
+  padding-left: 50px;
+}
+
+th {
+  padding-left: 50px;
+}
+
+.top-arc {
+  width: 50%;
+  position: relative;
+  bottom: 350px;
+  right: 100px;
+}
+
+.bottom-arc {
+  width: 70%;
+  position: relative;
+  bottom: 750px;
+  left: 700px;
+}
+
+.cover-card {
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.Victor-photo {
+  border-radius: 50%;
+  border: 10px solid white;
+  position: relative;
+  left: 140px;
+  bottom: 50px;
+}
